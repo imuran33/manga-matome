@@ -40,3 +40,8 @@ composer install
 php artisan key:generate
 php artisan migrate --seed
 php artisan serve
+
+## キャプチャなど
+トップページ
+![image](https://github.com/user-attachments/assets/fbb2299b-f3df-4fe1-bb46-e5fbbea76737)
+

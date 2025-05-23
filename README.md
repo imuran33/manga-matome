@@ -45,4 +45,6 @@ php artisan serve
 ## キャプチャなど
 トップページ
 ![image](https://github.com/user-attachments/assets/fbb2299b-f3df-4fe1-bb46-e5fbbea76737)
+いいねランキング
+![image](https://github.com/user-attachments/assets/2c078da1-fae3-4296-aa0a-cda469216edf)
 

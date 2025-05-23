@@ -49,6 +49,6 @@ php artisan serve
 ![image](https://github.com/user-attachments/assets/fbb2299b-f3df-4fe1-bb46-e5fbbea76737)
 いいねランキング
 ![image](https://github.com/user-attachments/assets/2c078da1-fae3-4296-aa0a-cda469216edf)
-ログイン・新規登録時のバリデーションエラー
+ログイン・新規登録時のバリデーションエラーメッセージ
 ![image](https://github.com/user-attachments/assets/46765f9f-387c-48b9-aee1-aa4fa6026016)
 
